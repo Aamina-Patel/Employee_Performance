@@ -37,7 +37,9 @@ To create this dashboard I used PowerBI and PowerPoint, ensuring accuracy and in
   
 ### Final Dashboard
 
-
+<img width="1440" height="808" alt="Overview_Page" src="https://github.com/user-attachments/assets/db714dfa-ccd1-4b9c-977d-ba19b3ecd600" />
+<img width="1438" height="807" alt="Employee_Page" src="https://github.com/user-attachments/assets/74b64ba8-df8b-4876-a609-c94c6f8b669f" />
+<img width="1438" height="808" alt="Store_Page" src="https://github.com/user-attachments/assets/458f9785-7458-4c62-b6ee-c7d64ae8d077" />
 
 
 ## Conclusion & Recommendations

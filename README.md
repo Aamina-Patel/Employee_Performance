@@ -62,4 +62,4 @@ To create this dashboard I used PowerBI and PowerPoint, ensuring accuracy and in
 ## FP20 Analytics ZoomCharts Data Challenge 30
 - Created by: Aamina Patel
 - Built with: PowerBI & PowerPoint
-- Data Source: FP20 Analytics
+- Data Source: FP20 Analytics & [ZoomCharts](https://zoomcharts.com/en/microsoft-power-bi-custom-visuals/challenges/fp20-analytics-september-2025)

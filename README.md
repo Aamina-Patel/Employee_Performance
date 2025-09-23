@@ -1,7 +1,8 @@
 # Employee_Performance
 
 ## Introduction
-In this challenge, I worked as a HR data analyst to analyse workforce patterns and uncover actionable insights that HR teams and business leaders can use to improve employee satisfaction, optimise performance, and enhance organisational effectiveness.
+In this challenge, I worked as a HR data analyst to analyse workforce patterns and uncover actionable insights that HR teams and business leaders can use to improve employee satisfaction, optimise performance,
+and enhance organisational effectiveness.
 
 
 ## About the Dataset
@@ -16,8 +17,8 @@ The dataset I explored resembled a professional HR management system, and includ
 
 
 ## Problem Statement
-My task is to analyse this comprehensive dataset of over 497,000 detailed employee performance records to help organisations identify top-performing employees and departments, evaluate compensation effectiveness, assess manager performance and team dynamics, discover 
-patterns in employee satisfaction and retention, and provide recommendations to improve workforce productivity and organisational culture.
+My task is to analyse this comprehensive dataset of over 497,000 detailed employee performance records to help organisations identify top-performing employees and departments, evaluate compensation effectiveness,
+assess manager performance and team dynamics, discover patterns in employee satisfaction and retention, and provide recommendations to improve workforce productivity and organisational culture.
 
 
 ## My Approach and Tools Used
@@ -36,6 +37,7 @@ To create this dashboard I used PowerBI and PowerPoint, ensuring accuracy and in
 - Created background in PowerPoint and inserted into PowerBI via canvas background settings. Then inserted page navigator, buttons to navigate bookmarks and images to link to LinkedIn and GitHub 
   
 ### Final Dashboard
+Explore the interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjhiY2EyODYtZjlkYS00MWM0LWI4YTYtZWI3NTcyYTc5NWU3IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
 <img width="1440" height="808" alt="01  Overview_Page" src="https://github.com/user-attachments/assets/24a3ce86-04db-4144-a645-a5217418e541" />
 
